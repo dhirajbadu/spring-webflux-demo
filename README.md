@@ -1,0 +1,1 @@
+#### Example of reactive api where we will get one resource in each 1 second.
